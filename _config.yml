@@ -5,8 +5,8 @@ url: "https://sumayaaden.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Sumaya Aden's Profile # site's title
 description: "A website with blog posts and pages" # used by search engines
-avatar: assets/img/triangle.png # Empty for no avatar in navbar
-favicon: assets/favicon.ico # Icon displayed in the tab
+avatar: assets/img/ashwini-chaudhary-hUcdRP8G3RU-unsplash.jpg # Empty for no avatar in navbar
+favicon: assets/sun.ico # Icon displayed in the tab
 
 # Header and footer text
 header_text: Welcome To My Page # Change Blog header text
