@@ -1,0 +1,15 @@
+---
+layout: post
+title: Dream Corps Tech
+img: "assets/img/portfolio/DreamCorps_tech_Logo.jpg
+date: October, 2021
+tags:
+---
+
+![image]({{ page.img | relative_url }})
+assets/img/portfolio/DreamCorps_tech_Logo.jpg
+
+Dream Corps defintions here
+
+I was honoered to be a part of Dream Corps Tech October 2021 cohort. There with the help of an amazing instructor, mentor, classmates and over all guidance from the Dream Corps team, I was able to complet the course and have a solid foundation about Java. something something something
+
