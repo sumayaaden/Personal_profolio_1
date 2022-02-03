@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Post
+title: Its Cold Outside
 tags: [A Tag, Katex]
 excerpt_separator: <!--more-->
 ---
