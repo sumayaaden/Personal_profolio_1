@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dream Corps Tech
-img: "assets/img/portfolio/DreamCorps_tech_Logo.jpg
+img: "assets/img/portfolio/DreamCorps_tech_Logo.png
 date: October, 2021
 tags: [Lorem]
 ---
