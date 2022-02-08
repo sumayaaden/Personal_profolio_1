@@ -6,9 +6,9 @@ date: October, 2021
 tags: [Lorem]
 ---
 
-<!-- ![image]({{ page.img | relative_url }}) -->
-![image]({{ .img | relative_url }})
-assets/img/portfolio/DreamCorps_tech_Logo.jpg
+![image]({{ page.img | relative_url }})
+<!-- ![image]({{ .img | relative_url }})
+assets/img/portfolio/DreamCorps_tech_Logo.jpg -->
 
 Dream Corps defintions here
 
