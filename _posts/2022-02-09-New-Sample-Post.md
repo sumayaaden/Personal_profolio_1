@@ -11,7 +11,7 @@ i cant get lorem to work and certian function like a space break
 * rule one , i cant make rules
 * rule two , hello
  
- i cant mae a word *italizied* by using ** 
+ i cant make a word *italizied* by using ** 
 
  i dont 
 <!--more--> 
@@ -19,6 +19,7 @@ i cant get lorem to work and certian function like a space break
 
 {% include aligner.html images="pexels/travel.jpeg" column=1 %}
 
+<<<<<<< HEAD:_posts/2022-02-09-New-Sample-Post.md
 $$ i think this indents words over $$
 
 $$ \Theta \ne \Gamma $$
