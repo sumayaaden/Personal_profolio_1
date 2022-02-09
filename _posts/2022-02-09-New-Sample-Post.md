@@ -18,5 +18,7 @@ i cant get lorem to work and certian function like a space break
 {% image="pexels/sand-water.jpeg" column=1 %}
 
 <!-- {% include aligner.html images="pexels/travel.jpeg" column=1 %} -->
+
 assets/img/pexels/sand-water.jpeg
+
 <img src="assets/img/pexels/sand-water.jpeg">
