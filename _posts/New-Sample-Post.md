@@ -22,7 +22,6 @@ i cant get lorem to work and certian function like a space break
 
 
 > Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-
 $$ i think this indents words over $$
 
 $$ \Theta \ne \Gamma $$
