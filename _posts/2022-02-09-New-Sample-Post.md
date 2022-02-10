@@ -15,10 +15,14 @@ i cant get lorem to work and certian function like a space break
 
  i dont 
 <!--more--> 
-{% image="pexels/sand-water.jpeg" column=1 %}
+<!-- {% image="pexels/sand-water.jpeg" column=1 %} -->
 
 <!-- {% include aligner.html images="pexels/travel.jpeg" column=1 %} -->
 
-assets/img/pexels/sand-water.jpeg
+<!-- assets/img/pexels/sand-water.jpeg -->
 
-<img src="assets/img/pexels/sand-water.jpeg">
+
+![Sand-water](../assets/img/pexels/sand-water.jpeg)
+
+
+<!-- <img src="assets/img/pexels/sand-water.jpeg"> -->
