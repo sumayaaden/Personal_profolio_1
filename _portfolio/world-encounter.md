@@ -6,5 +6,7 @@ date: January 2022
 tags: [Ipsum]
 ---
 
-lorem
-ipsum
+![image]({{ page.img | relative_url }})
+
+
+# world enc is nice. i hope this picture is POSTED
