@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Its Cold Outside
+title: Cold & hot & Cooool 
+img: assets/img/pexels/sand-water.jpeg
+feature-img: "assets/img/feature-img/steelwhool.jpeg"
 tags: [A Tag, Katex]
 excerpt_separator: <!--more-->
 ---
@@ -13,13 +15,15 @@ i cant get lorem to work and certian function like a space break
  
  i cant make a word *italizied* by using ** 
 
- i dont 
+hello
+![image]({{ page.img | relative_url }})
+
+![image]({{"/assets/img/pexels/sand-water.jpeg" | relative_url }})
+
 <!--more--> 
-{% include aligner.html image="pexels/sand-water.jpg" column=1 %}
+<!-- {% include aligner.html image="pexels/sand-water.jpg" column=1 %}
 
-{% include aligner.html images="pexels/travel.jpeg" column=1 %}
+{% include aligner.html images="pexels/travel.jpeg" column=1 %} -->
 
-
-$$ i think this indents words over $$
-
-$$ \Theta \ne \Gamma $$
+<!-- ![Sand-water](assets/img/pexels/sand-water.jpeg)
+![Sand-water](../assets/img/pexels/sand-water.jpeg) -->
