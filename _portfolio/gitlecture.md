@@ -2,7 +2,7 @@
 layout: post
 title: Github
 img: "assets/img/portfolio/GitHub-logo.png"
-date: 02-21-2022
+date: 21-02-2022
 tags: 
 ---
 
