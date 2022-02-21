@@ -6,6 +6,6 @@ date: 21-02-2022
 tags: 
 ---
 
-![image]({{ page.img | relative_url }})
+![image]({{ page.img | https://github.com/sumayaaden }})
 
-Here is a link to my [GitHub](https://github.com/sumayaaden) page.
+Here is a link to my [GitHub]() page.
