@@ -5,8 +5,20 @@ img: "assets/img/portfolio/DC_Logo.png"
 date: October, 2021
 tags: [Lorem]
 ---
+<!-- 
+![image]({{ page.img | relative_url }}) -->
 
-![image]({{ page.img | relative_url }})
+
+<div style="text-align:center">
+<!-- <div img align="> -->
+
+
+<img src="/Personal_profolio_1/assets/img/portfolio/DC_Logo.png" class="center">
+
+<!-- ![image]({{"/assets/img/feature-img/caligraphy1.jpeg" | relative_url }}) -->
+
+</div>
+
 
 Dream Corps defintions here
 
