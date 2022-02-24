@@ -23,13 +23,12 @@ td, th {
 
 
 |:---|:---|:---|
-|* Java |* Back-End Developmet|* Front-End Development |
-|* Postgres |* SQL Statement|* Data Structures |
-|* Git |* GitHub | * HTML |
-|* CSS |
+|* Java |* Git |* GitHub |
+|* Data Structures|* Back-End Developmet|* Front-End Development |
+|* HTML |* CSS |
  
 <!-- ------------ 
-
+|* Postgres |* SQL Statement|
  <table>
 <td>
 
