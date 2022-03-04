@@ -11,19 +11,19 @@
     height: 100%;
     text-align: center;
     opacity: 0;
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
-    transition: all ease .5s;
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+    transition: all ease 0.5s;
 
     &::before {
-      content: ' ';
+      content: " ";
       display: inline-block;
       vertical-align: middle;
       height: 100%;
     }
 
     &:hover {
-      opacity: 1;
+      opacity: 0.5;
     }
 
     .caption-content {
@@ -44,7 +44,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-
 }
 
 .portfolio-cell {

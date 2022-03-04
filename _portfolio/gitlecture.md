@@ -15,7 +15,7 @@ tags:
 
 <!-- [![An old rock in the desert]({{"/assets/img/feature-img/bllue_orange_unsplash.jpeg" | relative_url }} "Shiprock, New Mexico by Beau Rogers")](https://github.com/sumayaaden)  -->
 
-Click on the button above to take you to my github page
+<!-- Click on the button above to take you to my github page -->
 
 <!-- <<div style="text-align:center">
 <div img align=">

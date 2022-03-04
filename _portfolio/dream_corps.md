@@ -1,23 +1,24 @@
 ---
 layout: post
-title: Dream Corps Tech
+title: ""
 img: "assets/img/portfolio/DC_Logo.png"
 date: October, 2021
 tags: 
 ---
-<!-- 
-![image]({{ page.img | relative_url }}) -->
+
+<!-- ![image]({{ page.img | relative_url }}) -->
 
 
-<div style="text-align:center">
+[![DC_image](/Personal_profolio_1/assets/img/portfolio/DC_Logo.png "Dream Corps Tech Page")](https://www.thedreamcorps.org/our-programs/tech/) 
+
 <!-- <div img align="> -->
+<!-- <div style="text-align:center">
 
-
-<img src="/Personal_profolio_1/assets/img/portfolio/DC_Logo.png" class="center">
+<img src="/Personal_profolio_1/assets/img/portfolio/DC_Logo.png" class="center"> -->
 
 <!-- ![image]({{"/assets/img/feature-img/caligraphy1.jpeg" | relative_url }}) -->
 
-</div>
+<!-- </div> -->
 <br>
 
 <p style="font-family: 'Verdana'; color:#ffffff; font-size: 1.05em; text-align:center;  font-weight: oblique; background-color:#872487;border-radius: 25px;margin-top:10px; padding-top: 30px;

@@ -5,17 +5,11 @@ layout: default
 <div class="home">
 
     <div id="main" class="call-out"
-         style="background-image: url('{{ site.header_feature_image | relative_url }}'); height: 100%; background-position: center; background-repeat: no-repeat; background-size: contain; ">
+         style="background-image: url('{{ site.header_feature_image | relative_url }}');height: 2000px; background-position: center; background-repeat: no-repeat; background-size: cover; ">
+        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
 
-
-     <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1> 
-
-
-
-
-
-    </div>
-
-
-
+        <div style="width:600px; height:450px; border:.5px solid #ff9c45; background-color:#c2620e, .40 ;border-radius:150px;box-shadow: 2px 2px 20px 23px #ff9c45; background-position: center; margin-left:auto; margin-right: auto; padding:140px; font-family: 'Lucida Console';font-size: 80px;font-weight: bold; 
+        color: white;
+  text-shadow: 10px 10px 90px black, 0 0 35px #ff9c45, 0 0 10px #c4623f;">Welcome</div>
+       </div>
 </div>
