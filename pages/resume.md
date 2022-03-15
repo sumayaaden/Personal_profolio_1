@@ -12,7 +12,7 @@ img: assets/img/feature-img/bllue_orange_unsplash.jpeg
 <h1 p style="text-align: center;"> Sumaya Aden  </h1>
 <div style="text-align: center">
 <h4> Minneapolis, MN </h4> 
-<a href="mailto:adenx047@umn.edu" style="color: #ed9680; "> adenx047@umn.edu| </a> <a href="https://github.com/sumayaaden" style="color: #ed9680; "> GitHub| </a> <a href="https://www.linkedin.com/in/sumaya-a-815084185/" style="color: #ed9680; "> Linkedin| </a> <a href="" style="color: #ed9680; "> PDF Resume| </a> 
+<a href="mailto:adenx047@umn.edu" style="color: #ed9680; "> adenx047@umn.edu| </a> <a href="https://github.com/sumayaaden" style="color: #ed9680; "> GitHub| </a> <a href="https://www.linkedin.com/in/sumaya-a-815084185/" style="color: #ed9680; "> Linkedin| </a> <a href="https://docs.google.com/document/d/19Xgz6WHf805jDQDESbpSLw0Yyu7xnoFx/edit?usp=sharing&ouid=115890240414801525988&rtpof=true&sd=true" style="color: #ed9680; "> PDF Resume| </a> 
 
 <!-- <hr style="border:2px solid black">  this adds a black horizontal line -->
 </div>
@@ -137,7 +137,7 @@ _Otolaryngology Department |Hennepin Healthcare Hospital |Minneapolis, MN|_
 * Centrifuge blood samples, label, and store
 * Follow up with patients and take a blood sample 
 * Monitor EPIC for new patients to recruit
-
+git git sta
 ---
 
 #### Care Partners
