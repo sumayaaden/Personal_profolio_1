@@ -32,4 +32,18 @@ layout: default
   {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
   {% include default/tags_list.liquid tags=tag_list %}
 
+
+   <footer id="main" style="background-image: url('{{ page.feature-img | relative_url }}'); background-size: cover; height: 200px; ">
+    <div class="title-padder">
+        {% if page.hide_title %}
+        <div class="feature-image-padding"; responsive;></div>
+      {% else %}
+        
+        {% if page.subtitle %}
+        
+        {% endif %}
+      {% endif %}
+    </div>
+  </footer>
+
 </article>

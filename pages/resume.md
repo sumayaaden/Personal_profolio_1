@@ -7,10 +7,15 @@ img: assets/img/feature-img/bllue_orange_unsplash.jpeg
 ---
 
 <!-- <img src="bllue_orange_unsplash.jpeg" alt="water" class="center"> -->
+<!-- background-image: "assets/img/feature-img/bllue_orange_unsplash.jpeg"; ADD background image -->
 
 <h1 p style="text-align: center;"> Sumaya Aden  </h1>
-<h4 p style="text-align: center;"> adenx047@umn.edu | Minneapolis, MN |  </h4>  
+<div style="text-align: center">
+<h4> Minneapolis, MN </h4> 
+<a href="mailto:adenx047@umn.edu" style="color: #ed9680; "> adenx047@umn.edu| </a> <a href="https://github.com/sumayaaden" style="color: #ed9680; "> GitHub| </a> <a href="https://www.linkedin.com/in/sumaya-a-815084185/" style="color: #ed9680; "> Linkedin| </a> <a href="https://docs.google.com/document/d/19Xgz6WHf805jDQDESbpSLw0Yyu7xnoFx/edit?usp=sharing&ouid=115890240414801525988&rtpof=true&sd=true" style="color: #ed9680; "> PDF Resume| </a> 
+
 <!-- <hr style="border:2px solid black">  this adds a black horizontal line -->
+</div>
 <br>
 <h3> Technical Skills </h3>
 <hr style="border:2px solid black"> 
@@ -23,13 +28,13 @@ td, th {
 
 
 |:---|:---|:---|
-|* Java |* Back-End Developmet|* Front-End Development |
-|* Postgres |* SQL Statement|* Data Structures |
-|* Git |* GitHub | * HTML |
-|* CSS |
+|* Java |* Git |* GitHub |
+|* Data Structures|* Back-End Developmet|* Front-End Development |
+|* HTML |* CSS |* Docker |
+|* Jekyll |* Markdown |* Ruby| 
  
 <!-- ------------ 
-
+|* Postgres |* SQL Statement|
  <table>
 <td>
 
@@ -53,7 +58,7 @@ td, th {
 
 ---- -->
 
-#### Project
+### Project
 
 <hr style="border:2px solid black"> 
   * Quadratic Formula Calculator: Calculates the quadratic formula based on user input 
@@ -62,7 +67,7 @@ td, th {
   * Implementation of Built-in methods using Arraylist and Stacked list
 
 
-#### Education
+### Education
 
 <hr style="border:2px solid black"> 
 * University of Minnesota Twin Cities 
@@ -74,13 +79,23 @@ td, th {
    
 <div style="text-align: right"> September 2011 - June 2014 </div>
 
-####  Experience
+###  Experience
 
 <hr style="border:2px solid black"> 
 
-Targe 
 
-##### Software Engenieering Bootcamp
+#### Target TTS Internship
+_Target_
+
+<div style="text-align: right"> January 2022 - April 2022 </div>
+
+* A 12 week intership with Target where we worked on building a portfolio using HTML, CSS, and Markdown. 
+*  I learned how to utilize Jekyll to create a portfolio website that is linked to our GitHub repository, as well as how to customize a website with a theme.
+* I learned how to set up a connection between Github and our local server.
+* I collaborated with a team to help World Encounter, a Non-Profit orginazation, to build their markeptlace with a secure connection for payment processing on their website.
+
+---
+#### Software Engenieering Bootcamp
 _Target x Dream Corps Software Engineering Cohort 2021_
 
 <div style="text-align: right"> October 2021 - December 2021 </div>
@@ -90,7 +105,7 @@ _Target x Dream Corps Software Engineering Cohort 2021_
 
 ---
 
-##### Medical Assistant
+#### Medical Assistant
 _Endocrinology Clinic of Minneapolis |Edina, MN|_ 
 
 <div style="text-align: right"> June 2019 - October 2021 </div>
@@ -112,7 +127,7 @@ physicians and insurance companies.
   
 --- 
 
-##### Research Assistant
+#### Research Assistant
 
 _Otolaryngology Department |Hennepin Healthcare Hospital |Minneapolis, MN|_   
 <div align="right"> December 2018 – 2020 </div> 
@@ -122,10 +137,10 @@ _Otolaryngology Department |Hennepin Healthcare Hospital |Minneapolis, MN|_
 * Centrifuge blood samples, label, and store
 * Follow up with patients and take a blood sample 
 * Monitor EPIC for new patients to recruit
-
+git git sta
 ---
 
-##### Care Partners
+#### Care Partners
 
 _University of Minnesota Masonic Children’s Hospital |Minneapolis, MN| Unit Volunteee_
  <div align="right"> January 2018 – 2020 </div>
@@ -143,16 +158,17 @@ challenges.
 
 ---
 
-#### Languages
+### Languages
 <hr style="border:2px solid black"> 
-*  Somali: Native languare 
+*  Somali: Native language 
 *  Arabic: intermediate
 *  Microsoft Office
-
 
 
  [Resume]: <https://docs.google.com/document/d/1V56Nwnq3HJI9x6R1vu0vXNWmkEEll_14/edit?usp=sharing&ouid=115890240414801525988&rtpof=true&sd=true>
 
 -------
- This is my [Resume]
-   
+
+
+
+
